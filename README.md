@@ -1,6 +1,5 @@
 😊 Olá! Eu sou a Brenda Brito
 
-📓 Estudando JavaScript e C#
 🤭 Pronoums: ela/dela
 
 <div align="center">
