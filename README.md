@@ -7,13 +7,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bibi-eight&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibi-eight&layout=compact&langs_count=7&theme=nord"/>
 </div>
+  <h3>Estudando<h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="bibi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="bibi-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
   ##
-  <h1> Estudando <h1>
   
   <div>
      <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
