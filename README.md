@@ -8,10 +8,11 @@
   
  
 </div>
-  <h3>Estudando<h3>
 <div style="display: inline_block"><br>
-  
+  <h2>Dev BackEnd Junior</h2>
   <img align="center" alt="bibi-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  
+  <h3>Estudando<h3>
   <img align="center" alt="bibi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
   
