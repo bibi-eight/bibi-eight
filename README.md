@@ -11,7 +11,7 @@
 </div>
 </br>
 <div>
-    <p>Estudei JavaScript por 6 meses em um bootcamp logo depois de me formar no ensino médio. Consegui um emprego como estagiaria de desenvolvimento backend onde trabalho com c# e acabei deixando meu github um pouco de lado pra estudar mais c# e boas práticas. Abaixo estão as tecnologias que tenho habilidade, listadas na ordem de maior a menor conhecimento. E em seguida as que estou estudando.
+    <p>Abaixo estão as tecnologias que tenho habilidade, listadas na ordem de maior a menor conhecimento. E em seguida as que estou estudando.
 </p>
 </div>
 
