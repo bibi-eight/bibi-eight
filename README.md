@@ -5,9 +5,16 @@
 </div>
 <div>
     <h2>Conecte-se comigo</h2>
-    <a href="https://www.linkedin.com/in/brenda-regina-brito/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://www.notion.so/bibi-eight-workspace/Brenda-Regina-Ribeiro-de-Brito-2ded8bcc42da4b678ecd4d52b7159630?pvs=4"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black" target="_blank"></a>
-    <a href = "mailto:bbritob8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/brenda-regina-brito/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a> 
+<a href="https://bibi-eight-workspace.notion.site/Brenda-Regina-Ribeiro-de-Brito-2ded8bcc42da4b678ecd4d52b7159630?pvs=74" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black">
+</a>
+<a href="mailto:bbritob8@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
 </div>
 </br>
 
