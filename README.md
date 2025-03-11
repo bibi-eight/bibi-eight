@@ -1,7 +1,7 @@
 <div>
     <h1>Oii, eu sou a Brenda! </h1>
     <h3>Bem vindo ao meu mini mundo de códigos</h3>
-    <p>Eu sou a Brenda, tenho 20 anos, sim eu sou de 2004 haha. Sou dev Backend Junior e estou agora estudando frontend. Me formei faz pouco tempo no ensino médio técnico de desenvolvimento de sistemas no Pedro II. Caí na programação por acaso e por acaso também me apaixonei, amo entender como tudo que usamos no dia a dia na internet funciona, e amo fazer parte desse processo também. Sou apaixonada por livros, e por mais que só use preto, também amo cores. Sou apaixonada por arte. É isso, é um prazer pra mim que você conheça um pouco do que sou.</p>
+    <p>Eu sou a Brenda, tenho 21 anos, sim eu sou de 2004 haha. Sou dev Backend Junior e estou agora estudando frontend. Me formei faz pouco tempo no ensino médio técnico de desenvolvimento de sistemas no Pedro II. Caí na programação por acaso e por acaso também me apaixonei, amo entender como tudo que usamos no dia a dia na internet funciona, e amo fazer parte desse processo também. Sou apaixonada por livros, e por mais que só use preto, também amo cores. Sou apaixonada por arte. É isso, é um prazer pra mim que você conheça um pouco do que sou.</p>
 </div>
 <div>
     <h2>Conecte-se comigo</h2>
